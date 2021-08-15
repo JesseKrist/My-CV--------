@@ -112,6 +112,14 @@ aside ul {
   list-style: none;
 }
 
+aside li {
+  color: white;
+}
+
+.email {
+  text-decoration: underline;
+}
+
 
 aside li::before {
   content: "•";
