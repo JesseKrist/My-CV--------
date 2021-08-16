@@ -82,6 +82,8 @@ ul {
 
 .avatar {
   margin-top: 40px;
+  width: 370px;
+height: 354px;
 }
 
 .info {
@@ -130,7 +132,12 @@ aside li::before {
   margin-left: -1em;
 }
 
-.cont {
+.fas {
+  color: #ffff;
+  margin-right: 5px;
+}
+
+.fab {
   color: #ffff;
   margin-right: 5px;
 }
